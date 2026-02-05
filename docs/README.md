@@ -60,6 +60,15 @@ Detailed definitions of typical roles and their responsibilities. Use this docum
 
 ### Project Lifecycle Stages
 
+#### [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)
+Comprehensive checklist for onboarding new team members to their roles at OctoAcme. Includes general onboarding steps and role-specific guidance for all defined personas, plus a 30-60-90 day goal template.
+
+**Key Components:**
+- General onboarding timeline (Weeks 1-4)
+- Role-specific onboarding for all 13 personas
+- 30-60-90 day goals template
+- Onboarding feedback process
+
 #### [Project Initiation](octoacme-project-initiation.md)
 Guidelines for validating and authorizing new work. This stage ensures business need is confirmed, stakeholders are aligned, and initial plans are established before significant resources are committed.
 
@@ -134,9 +143,10 @@ Guidance for capturing learnings and converting them into actionable improvement
 ## Using This Documentation
 
 ### For New Team Members
-1. Start with [Project Management Overview](octoacme-project-management-overview.md) to understand our philosophy
-2. Review [Roles and Personas](octoacme-roles-and-personas.md) to clarify your responsibilities
-3. Familiarize yourself with the relevant lifecycle stage documents for your current project phase
+1. Use the [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md) to guide your first 30-90 days
+2. Start with [Project Management Overview](octoacme-project-management-overview.md) to understand our philosophy
+3. Review [Roles and Personas](octoacme-roles-and-personas.md) to clarify your responsibilities
+4. Familiarize yourself with the relevant lifecycle stage documents for your current project phase
 
 ### For Project Managers
 - Use [Project Initiation](octoacme-project-initiation.md) to structure new project proposals
@@ -188,6 +198,7 @@ Process documentation should be:
 
 | Process Stage | Primary Document | Key Artifacts |
 |--------------|------------------|---------------|
+| Onboarding | [octoacme-role-onboarding-checklist.md](octoacme-role-onboarding-checklist.md) | Role-specific checklists, 30-60-90 goals |
 | Initiation | [octoacme-project-initiation.md](octoacme-project-initiation.md) | One-pager, Stakeholder list |
 | Planning | [octoacme-project-planning.md](octoacme-project-planning.md) | Backlog, Release plan, DoD |
 | Execution | [octoacme-execution-and-tracking.md](octoacme-execution-and-tracking.md) | Project board, Risk register |
