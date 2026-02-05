@@ -1,6 +1,6 @@
 # OctoAcme Personas
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+This document defines typical roles and responsibilities used in OctoAcme project docs and exercises. These personas represent the complete ecosystem of roles involved in successful project delivery, covering development, product management, operations, quality assurance, research, and knowledge management.
 
 ---
 
@@ -245,9 +245,184 @@ Security Engineers ensure that projects meet security standards and best practic
 
 ---
 
+## Data Analyst / Metrics Lead
+
+### Role Summary
+Data Analysts provide visibility into product health and team performance through metrics, dashboards, and data analysis. They enable data-informed decision-making by collecting, analyzing, and interpreting key signals across the product lifecycle.
+
+### Responsibilities
+- Define and track key success metrics (KPIs, OKRs)
+- Build and maintain dashboards for product health (errors, latency, usage, adoption)
+- Set up instrumentation and monitoring for new features
+- Analyze trends and provide insights to Product Managers and stakeholders
+- Support A/B testing and experiment analysis
+- Create data reports for retrospectives and decision-making
+- Ensure data quality and consistency across systems
+
+### Goals
+- Provide real-time visibility into product performance
+- Enable data-driven prioritization and decision-making
+- Identify issues and opportunities through trend analysis
+- Reduce time-to-insight for product questions
+
+### Typical Communication
+- Weekly metrics reviews with Product Managers
+- Dashboard updates and metric alerts
+- Data insights reports for stakeholders
+- Retrospective data summaries
+
+### Interactions with Other Roles
+- **With Product Managers**: Collaborate on success metrics definition and outcome measurement
+- **With Developers**: Work on instrumentation implementation and data collection
+- **With Project Managers**: Provide data for status reports and decision-making
+- **With Stakeholders**: Present insights and trends through visualizations
+
+---
+
+## UX Researcher / Customer Insights Specialist
+
+### Role Summary
+UX Researchers ensure customer-first thinking by conducting user research, gathering feedback, and validating product solutions. They bridge the gap between customer needs and product decisions through structured research and insights.
+
+### Responsibilities
+- Conduct user interviews, surveys, and usability testing
+- Collect and synthesize customer feedback from multiple channels
+- Create user personas and journey maps
+- Validate product-market fit for new features
+- Run competitive analysis and market research
+- Present research findings and recommendations
+- Establish feedback loops with customers and support teams
+- Track customer satisfaction and Net Promoter Score (NPS)
+
+### Goals
+- Ensure features solve real customer problems
+- Reduce rework by validating solutions before development
+- Increase customer satisfaction and adoption
+- Build deep understanding of user needs and behaviors
+
+### Typical Communication
+- Research findings and insights presentations
+- User testing reports and recommendations
+- Customer feedback summaries
+- Collaboration sessions with Product Managers and designers
+
+### Interactions with Other Roles
+- **With Product Managers**: Validate problem statements and solution approaches
+- **With Developers**: Share customer context and edge cases
+- **With QA Engineers**: Collaborate on acceptance criteria from user perspective
+- **With Stakeholders**: Present customer insights and market trends
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+DevOps Engineers own infrastructure, CI/CD pipelines, and deployment automation. They enable reliable, frequent deployments while maintaining system observability and operational excellence.
+
+### Responsibilities
+- Build and maintain CI/CD pipelines
+- Manage infrastructure and cloud resources
+- Configure automated testing, linting, and security scanning in CI
+- Set up monitoring, logging, and alerting infrastructure
+- Implement deployment automation and infrastructure-as-code
+- Support incident response and troubleshooting
+- Optimize build and deployment performance
+- Ensure infrastructure security and compliance
+
+### Goals
+- Enable zero-downtime deployments
+- Increase deployment frequency while maintaining stability
+- Reduce mean time to recovery (MTTR) for incidents
+- Automate manual operational tasks
+
+### Typical Communication
+- Infrastructure change notifications
+- Pipeline and deployment status updates
+- Incident response coordination
+- Technical documentation for runbooks and procedures
+
+### Interactions with Other Roles
+- **With Developers**: Provide CI/CD support and infrastructure guidance
+- **With Release Managers**: Coordinate deployment procedures and automation
+- **With Security Engineers**: Implement security scanning and compliance checks
+- **With Data Analysts**: Support metrics infrastructure and observability
+
+---
+
+## Business Analyst / Requirements Analyst
+
+### Role Summary
+Business Analysts bridge stakeholders and delivery teams by gathering, documenting, and clarifying requirements. They ensure clear understanding of business needs, dependencies, and constraints before development begins.
+
+### Responsibilities
+- Gather and document business requirements
+- Identify dependencies and integration points across systems
+- Translate stakeholder needs into clear, actionable specifications
+- Facilitate requirements workshops and stakeholder interviews
+- Create process flows, use cases, and acceptance criteria
+- Manage requirements traceability and change control
+- Coordinate cross-functional alignment on scope
+- Document business rules and domain knowledge
+
+### Goals
+- Prevent scope creep and misalignment
+- Reduce rework from unclear requirements
+- Ensure all stakeholders have shared understanding
+- Identify risks and dependencies early
+
+### Typical Communication
+- Requirements documents and specifications
+- Stakeholder workshops and alignment meetings
+- Scope clarification discussions
+- Dependency mapping and impact analysis
+
+### Interactions with Other Roles
+- **With Stakeholders**: Gather needs, clarify constraints, validate requirements
+- **With Product Managers**: Collaborate on feature definition and prioritization
+- **With Project Managers**: Identify dependencies and scope changes
+- **With Developers**: Clarify requirements and acceptance criteria
+
+---
+
+## Knowledge Manager / Documentation Lead
+
+### Role Summary
+Knowledge Managers ensure institutional knowledge is captured, organized, and accessible. They maintain process documentation, onboarding materials, and learning resources to reduce dependency on individual team members and accelerate onboarding.
+
+### Responsibilities
+- Maintain and update process documentation
+- Capture learnings from retrospectives and convert to process improvements
+- Create and update onboarding materials and runbooks
+- Organize knowledge repositories and wikis
+- Facilitate knowledge-sharing sessions and training
+- Ensure documentation consistency and accessibility
+- Track documentation gaps and improvement opportunities
+- Support Copilot Spaces integration and knowledge indexing
+
+### Goals
+- Reduce onboarding time for new team members
+- Minimize single-person knowledge dependency
+- Ensure process consistency across teams
+- Make institutional knowledge easily searchable and actionable
+
+### Typical Communication
+- Documentation update notifications
+- Training sessions and knowledge-sharing workshops
+- Process improvement proposals from retrospective learnings
+- Onboarding guides and reference materials
+
+### Interactions with Other Roles
+- **With Project Managers**: Document project processes and retrospective learnings
+- **With All Roles**: Gather and organize role-specific knowledge
+- **With New Team Members**: Provide onboarding support and guidance
+- **With Stakeholders**: Ensure accessible documentation for decision-making
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The interaction sections show how roles collaborate, helping teams understand dependencies and communication patterns.
-- These personas represent the complete ecosystem of roles involved in successful project delivery at OctoAcme.
+- These personas represent the complete ecosystem of roles involved in successful project delivery at OctoAcme, from development and operations to research, analysis, and knowledge management.
+- The expanded role set addresses gaps in data-driven decision-making, customer insights, infrastructure automation, requirements clarity, and knowledge preservation.
 

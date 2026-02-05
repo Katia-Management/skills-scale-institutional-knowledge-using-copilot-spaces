@@ -52,6 +52,11 @@ Detailed definitions of typical roles and their responsibilities. Use this docum
 - Engineering Lead: Provide technical direction and architectural guidance
 - Release Manager: Coordinate and execute software releases to production
 - Security Engineer: Ensure projects meet security standards and best practices
+- Data Analyst/Metrics Lead: Enable data-driven decisions through metrics and analysis
+- UX Researcher/Customer Insights Specialist: Ensure customer-first thinking through research
+- DevOps Engineer: Own infrastructure, CI/CD pipelines, and deployment automation
+- Business Analyst: Bridge stakeholders and teams through clear requirements
+- Knowledge Manager: Maintain institutional knowledge and documentation
 
 ### Project Lifecycle Stages
 
