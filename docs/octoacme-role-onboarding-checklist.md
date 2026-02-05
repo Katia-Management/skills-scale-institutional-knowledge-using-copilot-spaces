@@ -187,7 +187,7 @@ At the end of your onboarding period, please provide feedback to help us improve
 4. What would have helped you ramp up faster?
 5. What documentation or resources were most/least useful?
 
-Use the [Add Content to Project Management Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template to submit improvement suggestions.
+Use the [Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template to submit improvement suggestions, or provide feedback directly to your manager or the Knowledge Manager.
 
 ---
 
