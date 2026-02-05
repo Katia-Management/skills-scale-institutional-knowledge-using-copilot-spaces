@@ -191,4 +191,4 @@ Process documentation should be:
 
 ---
 
-**Questions or feedback?** Use the issue templates in `.github/ISSUE_TEMPLATE/` to suggest improvements to these processes.
+**Questions or feedback?** Use the ["Add Content to Project Management Process Docs" template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) in `.github/ISSUE_TEMPLATE/` to suggest improvements to these processes.
