@@ -47,6 +47,11 @@ Detailed definitions of typical roles and their responsibilities. Use this docum
 - Developers: Design, build, test, and deliver software components
 - Product Managers: Define what to build and measure outcomes
 - Project Managers: Coordinate delivery, manage risks and communications
+- QA Engineers: Validate quality and ensure features meet acceptance criteria
+- Stakeholders: Provide input, decisions, and receive project benefits
+- Engineering Lead: Provide technical direction and architectural guidance
+- Release Manager: Coordinate and execute software releases to production
+- Security Engineer: Ensure projects meet security standards and best practices
 
 ### Project Lifecycle Stages
 
